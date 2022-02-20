@@ -8,3 +8,5 @@ There are 3 different types of electricity contracts available:
 
 To decide which contract is optimal, we decide to compare the costs under each of the contracts assuming usage remains the same as in recent years. In the data the hour field identifies when the hour starts, so 8 AM would be from 8:00 AM until 8:59 AM
 
+## SUPPORTING DATA 
+The specifics of each of the electricity contracts were supplied in the workbook. Usage history is located on the “Usage” sheet while the specifics about each of the electricity contracts are locating the "Contracts" sheet

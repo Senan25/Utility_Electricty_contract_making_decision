@@ -10,3 +10,8 @@ To decide which contract is optimal, we decide to compare the costs under each o
 
 ### SUPPORTING DATA 
 The specifics of each of the electricity contracts were supplied in the workbook. Usage history is located on the “Usage” sheet while the specifics about each of the electricity contracts are locating the "Contracts" sheet
+
+### According to the results of the final analyst, the "Hourly flex" contract is the best option with desirable and beneficial! Results of the analyst:  
+#### 1. Common total payment: 1438.34 
+#### 2. Monthly total payment: 1421.83
+#### 3. Hourly total payment(best option): 1369.36
